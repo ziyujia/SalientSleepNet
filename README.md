@@ -1,5 +1,5 @@
 # SalientSleepNet
-SalientSleepNet: Multimodal Salient Wave Detection Network for Sleep Staging
+Code for the model in the paper SalientSleepNet: Multimodal Salient Wave Detection Network for Sleep Staging (Accepted by IJCAI 2021).
 ![overall structure](figure/u2structure.png)
 
 # Datasets
